@@ -1,2 +1,2 @@
-# Employee-workforce-analysis-knime
-KNIME workflow for employee dataset analysis - filtering, grouping, joining, and visualization
+# student-dataset-analysis-knime
+KNIME workflow for student dataset analysis - filtering, grouping, joining
